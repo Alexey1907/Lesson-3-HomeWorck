@@ -475,9 +475,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-*.jpg
-<<<<<<< HEAD
-*.png
-=======
-*.jpeg
->>>>>>> new_branch
+
