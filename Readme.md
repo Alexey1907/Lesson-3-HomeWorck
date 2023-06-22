@@ -48,3 +48,6 @@ black_square_button делать или не делать, вот в чем во
 :negative_squared_cross_mark: Я не буду это делать    
 :black_square_button: делать или не делать, вот в чем вопрос?    
 Список работающих Эмодзи находится тут -> emoji.md
+# Lesson 3
+
+## Home Worck!
